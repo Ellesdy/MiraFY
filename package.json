@@ -10,10 +10,14 @@
   },
   "dependencies": {
     "discord.js": "^14.14.1",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "better-sqlite3": "^9.2.2",
+    "fs-extra": "^11.2.0"
   },
   "devDependencies": {
     "@types/node": "^20.10.5",
+    "@types/better-sqlite3": "^7.6.8",
+    "@types/fs-extra": "^11.0.4",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   }
